@@ -12,6 +12,13 @@ A simple and efficient ToDo list application built with **React** and **Vite**. 
 
 ---
 
+## 🔗 Live Demo
+
+🌐 [View it on GitHub Pages]( https://titiksha95.github.io/To-Do-App/)
+
+
+---
+
 ## 🔧 Tech Stack
 
 - [React](https://reactjs.org/)
