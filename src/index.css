@@ -1,0 +1,8 @@
+/* index.css */
+body,
+#root {
+  background-color: #C0C9EE !important;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}

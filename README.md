@@ -6,9 +6,9 @@ A simple and efficient ToDo list application built with **React** and **Vite**. 
 
 ## 🚀 Features
 
-- ✅ Add new tasks  
-- ❌ Delete tasks    
-- 📱 Fully responsive design   
+- ✅ Add new tasks
+- ❌ Delete tasks
+- 📱 Fully responsive design
 
 ---
 
@@ -22,8 +22,6 @@ A simple and efficient ToDo list application built with **React** and **Vite**. 
 
 ---
 
-
-
 ## 🛠️ Installation & Running Locally
 
 ```bash
@@ -35,3 +33,4 @@ npm install
 
 # Run the app in development mode
 npm run dev
+```
